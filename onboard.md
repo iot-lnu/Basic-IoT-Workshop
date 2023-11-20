@@ -6,12 +6,6 @@ Got to [The things network console](https://console.cloud.thethings.network/). S
 ### 3. Add your sensor to the application
 
 Once there, navigate to `Register end device` in the bottom-right corner to add your *Sensor* to the application. For some sensors the details are already added in TTN. Search for its brand name in the search bar under "End device brand". If the sensor is not in TTS's LoRaWAN device repository yet, you can still add it manually.
-####Sensor details
-
-Use the table below to fill in the correct details for your sensor
-|Sensor|Frequency plan|LoRaWAN version|regional parameters version|
-|------|--------------|---------------|---------------------------|
-|[tabs - TBMS100](https://iot-shop.de/en/shop/gem-pir-tabs-tbms100-motion-sensor-pir-4362#attr=2496,812,2497,2345,819,824,811,2494,3303,3302,11839,12909,14208,15049,15700,16180,16380,15942,14475)|Europe 863-870 MHz (SF9 for RX2 - recommended)|||
 
 Set the **frequency plan** to `Europe 863-870 MHz (SF9 for RX2 - recommended)`, **LoRaWAN version** to `MAC V1.0.2` and the **regional parameters version** to `PHY V1.0.2 REV A`. 
 
