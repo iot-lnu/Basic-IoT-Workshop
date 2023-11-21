@@ -3,7 +3,7 @@
 Create a Datacake account [here](https://app.datacake.de/login). 
 
 ### 2. Integration to TheThingsNetwork 
-In order to visualize the data sent from our DHT11 sensor that is connected to our *Lopy4* on Datacake, we need to create an `Integration` from the things network to Datacake. Let's go ahead and do that. Click on `Applications` and then navigate to `Integrations` and then `Webhooks` to create a webhook. 
+In order to visualize the data sent from our sensor on Datacake, we need to create an `Integration` from the things network to Datacake. Let's go ahead and do that. Click on `Applications` and then navigate to `Integrations` and then `Webhooks` to create a webhook. 
 
 ![Alt text](/images/i21.png)
 
