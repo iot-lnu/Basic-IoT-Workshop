@@ -1,17 +1,23 @@
 ### 1. Log on
-Got to [The things network console](https://console.cloud.thethings.network/). Select Europe 1 (eu1) and choose the `Login with The Things ID` option to log in. Use the credentials provided by the instructor. Go to 'applications' and click on the one called 'Basic Workshop'.
+Got to [The things network console](https://console.cloud.thethings.network/). Select Europe 1 (eu1) and choose the `Login with The Things ID` option to log in. Use the credentials provided by the instructor.
 
 ![](https://i.imgur.com/3apo8Cv.png)
 
 ### 3. Add your sensor to the application
 
-Once there, navigate to `Register end device` in the bottom-right corner to add your *Sensor* to the application. For some sensors the details are already added in TTN. Search for its brand name in the search bar under "End device brand". If the sensor is not in TTS's LoRaWAN device repository yet, you can still add it manually.
+Go to 'applications' and click on the one called `Basic Workshop`.Once there, navigate to `Register end device` in the bottom-right corner to add your *Sensor* to the application. For some sensors the details are already added in TTN. Search for its brand name in the search bar under "End device brand".
 
-Set the **frequency plan** to `Europe 863-870 MHz (SF9 for RX2 - recommended)`, **LoRaWAN version** to `MAC V1.0.2` and the **regional parameters version** to `PHY V1.0.2 REV A`. 
+#### End device brands
+|Brand|Sensor|Hardware Ver.| Firmware Ver | Profile(Region)|Frequency Plan|
+|------|-----|-------------|--------------|----------------|--------------|
+|browan|TBMS100|
+|dragino|LHT65|"Unknown"|1.8|EU_863_870|Europe 863-870 MHz(SF9 for RX2 - recommended)|
+
+![](images/i41.png)
 
 Enter the `JoinEUI`, `DevEUI` and the `AppKey` that are provided and click `Register end device`. 
 
-![Alt text](/images/i15.png)
+
 
 Once you register your device, you will be directed to the device page, which should look similar to the image below. 
 
