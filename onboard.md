@@ -38,4 +38,4 @@ In The Things Network `Live data`, we can read the sensor values in the payload 
 
 If you made it this far, congratulations! 🥳 
 
-You can now move on to visualizing the data! 
+You can now move on to [visualizing the data](visualize.md)! 
