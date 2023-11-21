@@ -1,4 +1,4 @@
-!!!!word When you are done with this part you have to delete the sensor from datacake, otherwise we will not be able to reuse them in future workshops.
+***IMPORTANT!! When you are done with this part you have to delete the sensor from datacake, otherwise we will not be able to reuse them in future workshops.***
 ### 1. Create an account on Datacake 
 
 Create a Datacake account [here](https://app.datacake.de/login). 
@@ -101,4 +101,4 @@ You should now see the widget appear. Go ahead and do the same for the humidity 
 
 Play around with the widgets until you're happy with your dashboard. You can do many more things in Datacake, e.g. set thresholds for values and create alarms and notifications for deviating values. 
 
-!!! word Don't forget to delete the sensor when the workshop is over
+***IMPORTANT!! Don't forget to delete the sensor when the workshop is over***
