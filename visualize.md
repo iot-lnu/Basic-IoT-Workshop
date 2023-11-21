@@ -27,9 +27,9 @@ Choose `LoRaWAN` and click on `Next`.
 
 ![Alt text](/images/i26.png)
 
-Select `New Product`, type a `Product Name` (can be anything), and click on `Next`. 
+Select `New Product from template`, type a `Product Name` (can be anything). Find your sensors `manufacturer` and your `sensor model`. Finally click on `Next`. 
 
-![Alt text](/images/i27.png)
+![Alt text](/images/i43.png)
 
 Next, select `The Things Stack V3` and click on `Next`. 
 
