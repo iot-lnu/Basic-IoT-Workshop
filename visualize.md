@@ -1,3 +1,4 @@
+!!!!word When you are done with this part you have to delete the sensor from datacake, otherwise we will not be able to reuse them in future workshops.
 ### 1. Create an account on Datacake 
 
 Create a Datacake account [here](https://app.datacake.de/login). 
@@ -27,7 +28,7 @@ Choose `LoRaWAN` and click on `Next`.
 
 ![Alt text](/images/i26.png)
 
-Select `New Product from template`, type a `Product Name` (can be anything). Find your sensors `manufacturer` and your `sensor model`. Finally click on `Next`. 
+Select `New Product from template`, type a `Product Name` (can be anything). Search for your sensor and select the correct  model. Finally click on `Next`. 
 
 ![Alt text](/images/i43.png)
 
@@ -35,7 +36,7 @@ Next, select `The Things Stack V3` and click on `Next`.
 
 ![Alt text](/images/i28.png)
 
-Now, we are asked to provide the DevEUI of the device we want to add, so we paste that. Our `DevEUI` can be found either in the `boot.py` file or in TheThingsNetwork under the device page.
+Now, we are asked to provide the DevEUI of the device we want to add, so we paste that. Our `DevEUI` can be found in TheThingsNetwork under the device page.
 
 ![Alt text](/images/i29.png)
 
@@ -98,8 +99,6 @@ You should now see the widget appear. Go ahead and do the same for the humidity 
 
 ![Alt text](/images/i39.png)
 
-Play around with the widgets until you're happy with your dashboard. When you're done, you can generate a public link to the dashboard and share it. 
+Play around with the widgets until you're happy with your dashboard. You can do many more things in Datacake, e.g. set thresholds for values and create alarms and notifications for deviating values. 
 
-![Alt text](/images/i40.png)
-
-You can do many more things in Datacake, e.g. set thresholds for values and create alarms and notifications for deviating values. 
+!!! word Don't forget to delete the sensor when the workshop is over
