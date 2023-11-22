@@ -10,7 +10,6 @@
 
 - Short presentation: What is IoT 
 - Part 1, Onboard sensor on TTS
-- Break
 - Part 2, Visualize data on Datacake
 
 ## Requiered hardware
