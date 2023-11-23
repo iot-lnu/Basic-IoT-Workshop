@@ -5,7 +5,11 @@ Got to [The things network console](https://console.cloud.thethings.network/). S
 
 ### 2. Add your sensor to the application
 
-Go to 'applications' and click on the one called `Basic Workshop`.Once there, navigate to `Register end device` in the bottom-right corner to add your *Sensor* to the application. For some sensors the details are already added in TTN. Search for its brand name in the search bar under "End device brand". In the table below all details are provided for each sensor. 
+Go to 'applications' and click on the one called `Basic Workshop`.
+
+![](/images/i45.png)
+
+Once there, navigate to `Register end device` in the bottom-right corner to add your *Sensor* to the application. For some sensors the details are already added in TTN. Search for its brand name in the search bar under "End device brand". In the table below all details are provided for each sensor. 
 
 |End device brand|model|Hardware Ver.| Firmware Ver | Profile(Region)|Frequency Plan|
 |------|-----|-------------|--------------|----------------|--------------|
@@ -13,7 +17,7 @@ Go to 'applications' and click on the one called `Basic Workshop`.Once there, na
 |dragino|LHT65|"Unknown"|1.8|EU_863_870|Europe 863-870 MHz(SF9 for RX2 - recommended)|
 
 
-Enter the `JoinEUI/AppEUI`, `DevEUI` and the `AppKey` that are provided. ***Do not use "generate".*** Make sure that you change `End device ID` to something that is easy to remember, for example your names. Click `Register end device`.
+Enter the `JoinEUI/AppEUI`, `DevEUI` and the `AppKey` that are provided. ***Do not click on "generate".*** Make sure that you change `End device ID` to something that is easy to remember, for example your names. Click `Register end device`.
 
 Below is an example of how it can look while registering a LHT65. 
 
