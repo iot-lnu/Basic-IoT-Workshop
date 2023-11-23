@@ -10,7 +10,6 @@
 
 - Short presentation: What is IoT 
 - Part 1, Onboard sensor on TTS
-- Break
 - Part 2, Visualize data on Datacake
 
 ## Requiered hardware
@@ -18,8 +17,8 @@
 For this workshop you will need one of the following off the shelf sensors
 |Model|Type|picture|
 |-----|----|-------|
-|[tabs - TBMS100](https://iot-shop.de/en/shop/gem-pir-tabs-tbms100-motion-sensor-pir-4362#attr=2496,812,2497,2345,819,824,811,2494,3303,3302,11839,12909,14208,15049,15700,16180,16380,15942,14475)| Motion Sensor| <img src="https://iot-shop.de/web/image/product.image/87/image_1024/tabs%20Bewegungssensor%20%28PIR%29?unique=df1c903" width="100">|
-|[Dragino - LHT65](https://media.distrelec.com/Web/Downloads/_t/ds/113990756_eng_tds.pdf)|Temperatur Luftfuktighet|<img src="https://media.distrelec.com/Web/WebShopImages/landscape_large/5-/01/Seeed-113990756-30163015-01.jpg" width="100">|
+|[tabs - TBMS100](https://iot-shop.de/en/shop/gem-pir-tabs-tbms100-motion-sensor-pir-4362#attr=2496,812,2497,2345,819,824,811,2494,3303,3302,11839,12909,14208,15049,15700,16180,16380,15942,14475)| Motion Sensor| <img src="https://iot-shop.de/web/image/product.image/87/image_1024/tabs%20Bewegungssensor%20%28PIR%29?unique=df1c903" width="400">|
+|[Dragino - LHT65](https://media.distrelec.com/Web/Downloads/_t/ds/113990756_eng_tds.pdf)|Temperatur Luftfuktighet|<img src="https://media.distrelec.com/Web/WebShopImages/landscape_large/5-/01/Seeed-113990756-30163015-01.jpg" width="400">|
 ## Onboard sensor
 This tutorial guides you on how to connect your sensor to The Things Stack (TTS) platform. The steps involve logging on to a prepared account, device registration, and code implementation for sending data via LoRaWAN.
 
