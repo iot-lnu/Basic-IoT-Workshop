@@ -13,7 +13,7 @@ Go to 'applications' and click on the one called `Basic Workshop`.Once there, na
 |dragino|LHT65|"Unknown"|1.8|EU_863_870|Europe 863-870 MHz(SF9 for RX2 - recommended)|
 
 
-Enter the `JoinEUI/AppEUI`, `DevEUI` and the `AppKey` that are provided. Make sure that you change `End device ID` to something that is easy to remember, for example your names. Click `Register end device`.
+Enter the `JoinEUI/AppEUI`, `DevEUI` and the `AppKey` that are provided. ***Do not use "generate".*** Make sure that you change `End device ID` to something that is easy to remember, for example your names. Click `Register end device`.
 
 Below is an example of how it can look while registering a LHT65. 
 
